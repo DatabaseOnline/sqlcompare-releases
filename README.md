@@ -1,6 +1,6 @@
-# SQL Compare downloads
+# SQLTreeo Compare downloads
 
-This repository only hosts the release files of **SQL Compare**, the SQL Server schema, data and server
+This repository only hosts the release files of **SQLTreeo Compare**, the SQL Server schema, data and server
 configuration comparison tool by [SQLTreeo](https://www.sqltreeo.com/sqlcompare). The installed application
 reads the releases here to offer automatic updates.
 
@@ -10,9 +10,10 @@ reads the releases here to offer automatic updates.
 - **Product page, pricing and license keys:** https://www.sqltreeo.com/sqlcompare
 - **Support:** https://www.sqltreeo.com
 
-SQL Compare is commercial software. It is licensed, not sold: see [LICENSE.txt](LICENSE.txt) (end-user
-license agreement). The first start on a computer begins a free 30-day trial with every feature enabled;
-comparing stays free afterwards, deploying, scripting and report export require a license key.
+SQLTreeo Compare is commercial software. It is licensed, not sold: see [LICENSE.txt](LICENSE.txt) (end-user
+license agreement). The first start on a computer begins a free 30-day trial with every feature enabled.
+Afterwards the desktop application stays free for comparing and viewing; copying, saving, exporting and
+deploying, and the command line, require a license key.
 Third-party open-source components are listed in `THIRD-PARTY-NOTICES.txt` inside every download.
 
 The `.nupkg` and `releases.*.json` files are used by the updater and are not meant to be downloaded manually.

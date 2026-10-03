@@ -1,8 +1,8 @@
 SQL COMPARE END-USER LICENSE AGREEMENT
 
-Version 1.0, 8 September 2026
+Version 1.2, 3 October 2026
 
-This End-User License Agreement ("Agreement") is a legal agreement between you (an individual or a single legal entity, "you") and SQLTreeo, the Netherlands, www.sqltreeo.com ("SQLTreeo", "we") for the SQL Compare software, consisting of the SQL Compare desktop application, the sqlcompare command line tool, related documentation and any updates SQLTreeo makes available (together the "Software").
+This End-User License Agreement ("Agreement") is a legal agreement between you (an individual or a single legal entity, "you") and Databaseonline, Roosendaal, the Netherlands, trading as SQLTreeo, www.sqltreeo.com ("SQLTreeo", "we") for the SQLTreeo Compare software, consisting of the SQLTreeo Compare desktop application, the sqlcompare command line tool, related documentation and any updates SQLTreeo makes available (together the "Software").
 
 By installing, copying or using the Software you accept this Agreement. If you do not accept it, do not install or use the Software.
 
@@ -20,7 +20,7 @@ By installing, copying or using the Software you accept this Agreement. If you d
 
 2.1 On the first start on a computer the Software begins a 30-day Evaluation Period during which every feature may be used free of charge for the purpose of evaluating the Software.
 2.2 The Evaluation Period is available once per computer. Extending, resetting, copying or otherwise circumventing it is not permitted.
-2.3 After the Evaluation Period the comparison features of the Software remain available free of charge. Deploying changes, generating deployment or configuration scripts and exporting reports require a License Key.
+2.3 After the Evaluation Period the desktop application remains available free of charge for running comparisons and viewing the differences and scripts on screen. Copying or saving comparison results and scripts, exporting reports, deploying changes or running scripts, and any use of the command line tool require a License Key.
 2.4 The Software is provided during the Evaluation Period and for the free features "as is", without any support or warranty obligation.
 
 
@@ -55,7 +55,7 @@ You may not, and may not allow others to:
 6. License verification and updates
 
 6.1 The Software verifies a License Key online with the SQLTreeo license service. During verification the Software transmits the License Key, the name entered as licensee, the computer name, the Software version and the IP address of the connection. Verified keys keep working for 30 days without a connection; a key that cannot be verified for a longer period is treated as unverified until the next successful verification.
-6.2 The Software checks for updates at startup and periodically while it runs, by contacting the SQL Compare release feed. Only the request needed to read the list of releases is made. Automatic update checks can be switched off in the settings of the Software.
+6.2 The Software checks for updates at startup and periodically while it runs, by contacting the SQLTreeo Compare release feed. Only the request needed to read the list of releases is made. Automatic update checks can be switched off in the settings of the Software.
 6.3 No database contents, connection details, passwords, scripts or comparison results are ever transmitted to SQLTreeo. Connection details and projects stay on your computer; passwords you choose to save are encrypted with Windows Data Protection for your user account.
 
 
@@ -114,6 +114,7 @@ This Agreement is governed by the laws of the Netherlands. Disputes will be subm
 
 16. Contact
 
-SQLTreeo, the Netherlands
+Databaseonline, trading as SQLTreeo
+Kade 28, 4703 GG Roosendaal, the Netherlands
 https://www.sqltreeo.com
 Questions about this Agreement or about licensing can be sent through the contact options on the website.
